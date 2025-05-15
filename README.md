@@ -29,7 +29,7 @@ The goal of this project is to learn how to create a basic robot game using Blen
 
 ## 📦 Project Structure
 
-- `robot_game.blend` – Main Blender game file.
+- `robot .blend` – Main Blender game file.
 - `manual_book.pdf` – Step-by-step game creation documentation.
 
 ## 🖼 Screenshots
